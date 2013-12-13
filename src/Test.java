@@ -7,5 +7,6 @@ public class Test {
 
     public static void newBranch() {
         //
+        System.out.println();
     }
 }
